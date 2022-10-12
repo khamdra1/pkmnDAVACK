@@ -1,0 +1,12 @@
+[GeneralSettings]
+ShowMatrixGrid = True
+ZoomLevel = 16
+AnimateScroll = False
+
+[Theme]
+PrimaryColor = "#dddddd"
+BackgroundColor = "#222222"
+HueOffset= 0,1
+AccentSaturation = 0,7
+AccentValue = 0,7
+HighlightBrightness = 0,6

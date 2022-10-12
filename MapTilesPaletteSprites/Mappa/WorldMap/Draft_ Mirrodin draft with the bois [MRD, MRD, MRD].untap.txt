@@ -1,0 +1,47 @@
+//deck-1
+1 Vedalken Archmage
+1 Wail of the Nim
+1 Annul
+2 Banshee's Blade
+1 Clockwork Beetle
+1 Cobalt Golem
+2 Disciple of the Vault
+1 Domineer
+1 Empyrial Plate
+1 Golem-Skin Gauntlets
+1 Lightning Greaves
+2 Looming Hoverguard
+2 Irradiate
+1 Loxodon Warhammer
+1 Myr Adapter
+1 Myr Enforcer
+1 Neurok Spy
+1 Nim Replica
+1 Nim Shambler
+1 Nim Shrieker
+1 Relic Bane
+1 Skeleton Shard
+1 Slith Bloodletter
+2 Somber Hoverguard
+1 Sun Droplet
+1 Terror
+
+//sideboard-1
+1 Auriok Transfixer
+1 Chimney Imp
+1 Wizard Replica
+1 Clockwork Beetle
+1 Pewter Golem
+1 Clockwork Condor
+1 Cobalt Golem
+1 Nim Lasher
+1 Tanglebloom
+1 Tel-Jilad Archers
+1 Tel-Jilad Chosen
+
+//maybe-1
+4 Forest
+5 Island
+4 Mountain
+4 Plains
+5 Swamp.

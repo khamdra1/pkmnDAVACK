@@ -1,0 +1,38 @@
+(FPImageException) Wrong image format
+Stacktrace:
+  $004C97E9
+  $004B3615
+  $004A5050
+  $004B3BD2
+  $004A4F63
+  $004A1FBD
+  $00438C9C
+  $00438EA9
+  $00523F21
+  $005244D8
+  $0040AFFA
+  $7688438B
+  $76864F8C
+  $768640DE
+  $76863EC0
+  $005324F8
+  $0041A6E0
+
+AdvanceMap Version: 1.9.5.0
+
+Rom informations:
+Filename: C:\Users\Hamza\Desktop\Pokemon d'Avack\0907 - Pokemon Ruby (U)(Mugs).gba
+Romname: POKEMON RUBYAXVE
+
+Actual position:
+aktModularForm: BlockEditorForm
+CurrentViewID: 0
+MapIndex: CL:10
+OldMapIndex: CL:10
+LoadingMapIndex: CL:10
+isMapFile: false
+MapHeaderData: D4162908F0106B0809D514081C86300895010A000000020100000100
+MapFooterData: 1400000014000000AC132908B4132908F46C28080C6D280802020000
+EventHeaderData: 06040904800F6B0810106B0830106B08C0106B08
+Connections (ConDataOffset/ConnectionAmount): $308610 / 1
+WildPokemonHeader: FFFF000000000000000000000000000000000000

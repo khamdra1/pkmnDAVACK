@@ -1,0 +1,2 @@
+15/03/2020 23:50:29 : Opened with NSE 2.X.
+15/03/2020 23:55:46 : Opened with NSE 2.X.

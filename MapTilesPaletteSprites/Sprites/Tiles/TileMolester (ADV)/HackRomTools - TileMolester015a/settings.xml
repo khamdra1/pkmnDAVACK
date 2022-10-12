@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE settings SYSTEM "settings.dtd">
+<settings>
+  <property key="locale" value="en_US"/>
+  <property key="viewStatusBar" value="true"/>
+  <property key="viewToolBar" value="true"/>
+  <property key="maxRecentFiles" value="10"/>
+  <property key="recentFile" value="E:\Giochi\Pokemon d'Avack\Game\Lightplatinum\Pokemon - Ruby Version (U) (V1.1).gba"/>
+  <property key="recentFile" value="E:\Giochi\Pokemon d'Avack\Game\truegame\pkmndavackreal.gba"/>
+</settings>

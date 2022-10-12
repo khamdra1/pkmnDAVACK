@@ -1,0 +1,2 @@
+22/10/2020 21:21:45 : Opened with NSE 2.X.
+22/10/2020 21:22:28 : Opened with NSE 2.X.

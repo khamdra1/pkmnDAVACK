@@ -1,0 +1,38 @@
+(ENotAPointer) AdvanceMapError(5): The value at $3E73C0 is not a Pointer! Please contakt luhopoke@gmail.com
+Stacktrace:
+  $00580366
+  $0045241E
+  $0051A394
+  $0055BF7F
+  $0055C456
+  $0055C9B1
+  $0055BE1A
+  $0040AFFA
+  $00510E72
+  $0056FE17
+  $0052F6E5
+  $0056B5A5
+  $770E444B
+  $770C4F8C
+  $770C473D
+  $770C4403
+  $6D043F3C
+
+AdvanceMap Version: 1.9.5.0
+
+Rom informations:
+Filename: C:\Users\Hamza\Desktop\Pokemon d'Avack\Game\truegame\pkmnruby.gba
+Romname: POKEMON RUBYAXVE
+
+Actual position:
+aktModularForm: AMMainForm
+CurrentViewID: 4
+MapIndex: 34.0
+OldMapIndex: 34.0
+LoadingMapIndex: 34.0
+isMapFile: false
+MapHeaderData: DC166B0800000000F4166B080000000000004D010000000000000000
+MapFooterData: 080000000800000054166B085C166B08F46C28080C6D280802020000
+EventHeaderData: 0000000000000000000000000000000000000000
+Connections (ConDataOffset/ConnectionAmount): $000000 / 0
+WildPokemonHeader: FFFF000000000000000000000000000000000000

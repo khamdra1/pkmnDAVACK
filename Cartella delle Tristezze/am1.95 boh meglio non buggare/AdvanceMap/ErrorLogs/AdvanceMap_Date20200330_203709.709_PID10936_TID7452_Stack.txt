@@ -1,0 +1,37 @@
+(EConvertError) "" is an invalid integer
+Stacktrace:
+  $004268A1
+  $0046F707
+  $00471DB0
+  $00523F21
+  $005244D8
+  $0040AFFA
+  $770E444B
+  $770C4F8C
+  $770C40DE
+  $770C3EC0
+  $005324F8
+  $0041F049
+  $0041F3FF
+  $00478DE3
+  $0041F3BA
+  $00402E75
+
+AdvanceMap Version: 1.9.5.0
+
+Rom informations:
+Filename: C:\Users\Hamza\Desktop\Pokemon d'Avack\Game\0907 - Pokemon Ruby (U)(Mugs).gba
+Romname: POKEMON RUBYAXVE
+
+Actual position:
+aktModularForm: AMMainForm
+CurrentViewID: 0
+MapIndex: CL:10
+OldMapIndex: CL:10
+LoadingMapIndex: CL:10
+isMapFile: false
+MapHeaderData: D4162908F0106B0809D514081C86300895010A000000020100000100
+MapFooterData: 1400000014000000AC132908B4132908F46C28080C6D280802020000
+EventHeaderData: 06040904800F6B0810106B0830106B08C0106B08
+Connections (ConDataOffset/ConnectionAmount): $308610 / 1
+WildPokemonHeader: FFFF000000000000000000000000000000000000

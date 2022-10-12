@@ -1,0 +1,85 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>System.Delegation</name>
+    </assembly>
+    <members>
+        <member name="T:System.Delegation.ConstructionCompletion">
+            <summary>
+            When a caller Disposes of this object, it will call the constructor on the target object.
+            </summary>
+        </member>
+        <member name="M:System.Delegation.ConstructionCompletion.CreateObjectWithDeferredConstruction``1(``0@,System.Object[])">
+            <summary>
+            Create an uninitialized object and returns a disposable scope for working with it. When the scope is closed, the object's constructor is called.
+            </summary>
+            <typeparam name="T"></typeparam>
+            <param name="incompleteObject"></param>
+            <param name="constructorArguments"></param>
+            <returns></returns>
+        </member>
+        <member name="M:System.Delegation.ConstructionCompletion.Dispose">
+            <summary>
+            Finishes constructing the target object.
+            </summary>
+        </member>
+        <member name="T:System.Delegation.EventImplementation`1">
+            <summary>
+            EventImplementation can look like an event to the user, but allows you to add custom delegates for add/remove.
+            It also keeps track of the added handlers in a list, so that you can query them as needed.
+            </summary>
+        </member>
+        <member name="T:System.Delegation.PropertyImplementation`1">
+            <example>
+            this.MyProperty = new PropertyImplementation&lt;int&gt;();
+            
+            this.MyProperty.set = value => Console.WriteLine(value);
+            
+            this.MyProperty.get = () => 7;
+            
+            this.MyProperty.value = 4;
+            
+            this.MyProperty = 2;
+            
+            int number = this.MyProperty;
+            </example>
+            <remarks>
+            Implicitly casting a T to a new PropertyImplementation resets its delegates to the defaults.
+            </remarks>
+        </member>
+        <member name="M:System.Delegation.PropertyImplementation`1.op_Implicit(System.Delegation.PropertyImplementation{`0})~`0">
+            <summary>
+            Assigning a normal value from a PropertyImplementation will use any custom get delegate that you've setup.
+            If you haven't setup a custom get delegate, then the PropertyImplementation's value is used.
+            </summary>
+            <example>
+            var property = new PropertyImplementation&lt;int&gt;();
+            property.get = () => 4;
+            property.value = 7;
+            
+            int x = property; // x is now 4.
+            </example>
+        </member>
+        <member name="M:System.Delegation.PropertyImplementation`1.op_Implicit(`0)~System.Delegation.PropertyImplementation{`0}">
+            <summary>
+            Assigning a normal value to a PropertyImplementation will remove any get/set delegates you've added to the property implementation.
+            </summary>
+            <example>
+            var property = new PropertyImplementation&lt;int&gt;();
+            property = 7;
+            </example>
+        </member>
+        <member name="T:System.Delegation.EnumerableEqualityComparer`1">
+            <summary>
+            Provides a simple comparison implementation for enumerable things.
+            Used for creating dictionaries of implementations for generic methods (for stubs).
+            </summary>
+        </member>
+        <member name="M:System.Delegation.EnumerableEqualityComparer`1.Equals(System.Collections.Generic.IEnumerable{`0},System.Collections.Generic.IEnumerable{`0})">
+            <inheritdoc />
+        </member>
+        <member name="M:System.Delegation.EnumerableEqualityComparer`1.GetHashCode(System.Collections.Generic.IEnumerable{`0})">
+            <inheritdoc />
+        </member>
+    </members>
+</doc>

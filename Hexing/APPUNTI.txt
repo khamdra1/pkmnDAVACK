@@ -1,0 +1,2 @@
+Forse farsi un bello studio di come è compilato un gioco .gba non sarebbe male
+vedro se ho tempo... comunque sia ho ttutti i modi per fare FSF e in caso dovessi fare modifiche approfondite c'è sempre hexmaniac

@@ -1,0 +1,38 @@
+(FPImageException) Wrong image format
+Stacktrace:
+  $004C97E9
+  $004B3615
+  $004A5050
+  $004B3BD2
+  $004A4F63
+  $004A1FBD
+  $00438C9C
+  $00438EA9
+  $00523F21
+  $005244D8
+  $0040AFFA
+  $775646CB
+  $775460BC
+  $7754520E
+  $77544FD0
+  $005324F8
+  $0041A6E0
+
+AdvanceMap Version: 1.9.5.0
+
+Rom informations:
+Filename: F:\Download F\Pokemon Ruby\0907 - Pokemon Ruby (U)(Mugs).gba
+Romname: POKEMON RUBYAXVE
+
+Actual position:
+aktModularForm: BlockEditorForm
+CurrentViewID: 0
+MapIndex: CL:1
+OldMapIndex: CL:1
+LoadingMapIndex: CL:1
+isMapFile: false
+MapHeaderData: 7479280898F737080CB71408FC8630086A0101000700020200000100
+MapFooterData: 1E0000001E000000647228086C722808F46C28080C6D280802020000
+EventHeaderData: 09060408F0F53708C8F63708F8F6370838F73708
+Connections (ConDataOffset/ConnectionAmount): $3086E4 / 2
+WildPokemonHeader: 000000000000000054B539000000000084B53900

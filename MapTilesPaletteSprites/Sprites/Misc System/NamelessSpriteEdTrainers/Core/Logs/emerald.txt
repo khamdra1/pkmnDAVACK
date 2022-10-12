@@ -1,0 +1,2 @@
+29/12/2015 14:03:02 : Opened with NSE 2.X.
+29/12/2015 14:03:20 : Navigated 0xDDE690 GrayScale : 32, 8

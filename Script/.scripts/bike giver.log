@@ -1,0 +1,23 @@
+eXtreme Script Editor v1.1.1
+-------------------------------------
+04-18-2022 10:19:19
+-------------------------------------
+Apertura output: E:\Giochi\Pokemon d'Avack\Game\truegame\pkmndavackreal.gba...
+Elaborazione script di input...
+1 - #DYNAMIC
+ > lDynamicStart = 0x800000
+3 - #ORG
+ > lNewOffset = 0x800022
+4 - (--) - GIVEITEM [+12]
+ > iItem = 0x110
+ > iQuantity = 0x1
+ > bType = 0x6
+5 - (02) - END [+1]
+-------------------------------------
+DYNAMIC_OFFSET 1
+ > sLabel = @start
+ > lOffset = 0x800022
+-------------------------------------
+Pulizia...
+Chiusura output...
+Elaborazione input terminata in 0,301 secondi.

@@ -1,0 +1,30 @@
+'---------------
+#dynamic 0x800000
+#org @start
+applymovement MOVE_PLAYER @move
+waitmovement 0x0
+msgbox @talk 0x6
+multichoice 0x0 0x0 0x46 0x0
+compare 0x800D 0x0
+if 0x1 goto @option
+compare 0x8000 0x1
+if 0x1 goto @option
+compare 0x8000 0x2
+if 0x1 goto @option
+compare 0x8000 0x3
+if 0x1 goto @option
+end
+
+'-----------
+' Movements
+'-----------
+#org @move
+#raw 0xA 'Step Left (Normal)
+#raw 0xFE 'End of Movements
+
+#org @option
+release
+end
+
+#org @talk
+= ciao merda

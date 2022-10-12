@@ -1,0 +1,21 @@
+Version 1:
+*Major release
+
+Version 1.1:
+*Fixed major and minor bugs
+*Added changelog
+
+Version 2.0:
+*Added Hex to Text Feature
+*GUI Improved
+*Now written in VB.NET
+*Open source!
+*And lots more!
+
+Version 2.1.0:
+*Name changed from 'Text Hex Decoder' to 'Text Hex Convert'
+*Added support for Standard Hex Values
+*Added 'History' function
+*Addded 'Other Form' functions that shows the other possible forms of the hex
+*Added update function
+*And further GUI improvement

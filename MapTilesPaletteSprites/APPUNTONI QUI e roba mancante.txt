@@ -1,0 +1,50 @@
+Per AM, i tileset interni devono sempre avere come tileset 1 la numero 14, quelli esterni la numero 0, quindi posso anche lasciare cosi i palettes, ma sicuro è condiviso fra tutti
+
+per gli altri tilesets ho un sacco di spazio disponibile, con pallettes da 6 a 11 per OGNI tileset, quindi l'unico problemo sara lo spazio per il tiles, non i colori.
+
+Elite map lo posso anche evitare, controllare poi per la mappa, anche le animazioni da rivedere
+
+https://www.pokecommunity.com/showthread.php?t=314480
+
+Mi raccomando per il tileset usare prima irfan e poi THA, se ci stanno troppi colori si possono sempre ridurre con algoritmi ez
+
+bagno
+paesaggi diversi (per ottagono esempio)
+
+verde
+blu
+bianco
+
+
+
+
+ROCCAFORTE POKEMON D'AVACK
+ciccio ciclamipoli script
+
+finestra piu alta
+parete piu alta
+
+
+sedia/tavolo layers
+divisori con pavimento
+pareti da bagno(anche per tileset da stanza)
+
+problema del behaviour/bg
+
+0x800 - Activates Pokemon Menu
+0x801 - Activates Pokedex Menu
+0x802 - Activates Pokenav Menu
+0x807 - Activates First Badge
+0x808 - Activates Second Badge
+0x809 - Activates Third Badge
+0x80A - Activates Fourth Badge
+0x80B - Activates Fifth Badge
+0x80C - Activates Sixth Badge
+0x80D - Activates Seventh Badge
+0x80E - Activates Eighth Badge
+0x860 - Activates Running Shoes
+
+da 0x1
+a  0x8D2
+
+lightdialga dialga piccolo lulz

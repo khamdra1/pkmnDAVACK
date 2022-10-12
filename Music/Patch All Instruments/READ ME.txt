@@ -1,0 +1,25 @@
+﻿Credit goes to Blazer for his original FE7 All-Instrument Hack,
+on which this patch was based.
+
+To use this patch, assemble your song in the new voicegroup.
+
+FireRed/Ruby:  0xB30C5C
+Emerald: 0x1130C5C
+
+All instruments with the exception of the drums correspond with normal MIDI/Sappy numbers.
+The regular drumkit is instrument 127, replacing the Gunshot.
+Another drum, representing the D#5 note in drum tracks, is instrument 126, replacing Applause.
+
+The Gunshot and Applause Intruments remain in the patch.
+If you wish to use them, go to 'Edit Voicegroup' in Sappy, choose the instruments you wish to replace,
+and input the following:
+
+FireRed/Ruby
+
+Applause (Direct Sound): 0xA15074, Atk: 255 Dec: 0 Sus: 255 Rel: 235
+Gunshot (Multi): Address 1: 0xB35024 Address 2: 0xB35294
+
+Emerald:
+
+Applause (Direct Sound): 0x1015074, Atk: 255 Dec: 0 Sus: 255 Rel: 235
+Gunshot (Multi): Address 1: 0x1135024 Address 2: 1135294 
