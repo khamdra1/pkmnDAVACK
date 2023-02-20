@@ -5,3 +5,30 @@ Nando e campetto:
 Foresta dietro:
 
 Poi scripting
+
++-sedie tipo 1 e 2
++-tavoli tipo 1 e 2
++-tazza con bustine di zucchero miele e cose
+
++-carta romcafe
++-finestre
++-croce
++-estintore/simbolo estintore
++-porta
++-biliardino
++-biliardo
++-cassa automatica
+
++-tappeto porta
++-lavagna fake
++-croissantini
++-finestre/stile balcone
+
++-cestini di merda
+
+-distributore cocacola
+-distributore normale
+-tutta la parte della mensa con cibi and what not
+-appendiabiti
+-computers generici
+-birre
