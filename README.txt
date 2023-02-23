@@ -26,9 +26,10 @@ Poi scripting
 
 +-cestini di merda
 
--distributore cocacola
--distributore normale
--tutta la parte della mensa con cibi and what not
--appendiabiti
--computers generici
--birre
++-distributore cocacola
++-distributore normale
+extra - tutta la parte della mensa con cibi and what not
+extra -appendiabiti
+
+extra -computers generici
+done? -birre
