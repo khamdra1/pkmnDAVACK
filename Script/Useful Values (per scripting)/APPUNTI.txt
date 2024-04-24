@@ -1,0 +1,32 @@
+setflag 0x800 fa apparire il tab dei pkmn
+waitstate per special
+special 0x91 per refreshare i tiles nella mappa postscript
+multilist 0x7f se è b
+multichoice
+
+
+mettere nuovi pokemon
+lightdialga dialga piccolo lulz
+mettere mappa del mondo
+bagno
+paesaggi diversi (per ottagono esempio)
+ROCCAFORTE POKEMON D'AVACK
+ciccio ciclamipoli script smeraldo
+
+0x800 - Activates Pokemon Menu
+0x801 - Activates Pokedex Menu
+0x802 - Activates Pokenav Menu
+0x807 - Activates First Badge
+0x808 - Activates Second Badge
+0x809 - Activates Third Badge
+0x80A - Activates Fourth Badge
+0x80B - Activates Fifth Badge
+0x80C - Activates Sixth Badge
+0x80D - Activates Seventh Badge
+0x80E - Activates Eighth Badge
+0x860 - Activates Running Shoes
+da 0x1
+a  0x8D2
+
+
+chissa cosa mi servira

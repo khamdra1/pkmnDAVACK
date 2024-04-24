@@ -1,2 +1,0 @@
-grit theme
-hawke theme
